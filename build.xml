@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <taskdef resource="net/sf/antcontrib/antlib.xml">
+        <classpath refid="dost.class.path"/>
+    </taskdef>
+</project>
