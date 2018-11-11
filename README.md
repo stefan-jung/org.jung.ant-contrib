@@ -1,9 +1,7 @@
-![DOCTALES Logo](https://doctales.github.io/images/doctales-logo-without-subtitle.svg)
-
-- - - -
-
 org.doctales.ant-contrib
 ========================
+
+![DOCTALES Logo](https://doctales.github.io/images/doctales-logo-without-subtitle.svg)
 
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
