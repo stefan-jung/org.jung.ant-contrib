@@ -5,7 +5,7 @@ org.doctales.ant-contrib
 
 [![license](https://img.shields.io/github/license/doctales/org.doctales.ant-contrib)](http://www.apache.org/licenses/LICENSE-2.0)
 
-**org.doctales.ant-contrib** is an abstract base DITA-OT Plug-in for [DITA-OT](http://dita-ot.github.io) that provides the [ant-contrib](http://ant-contrib.sourceforge.net/) library. The Ant-Contrib project is a collection of tasks for Apache Ant. The plug-in is designed to be extended.
+**org.doctales.ant-contrib** is an abstract base [DITA-OT Plug-in](https://www.dita-ot.org/plugins) for [DITA-OT](http://dita-ot.github.io) that provides the [ant-contrib](http://ant-contrib.sourceforge.net/) library. The Ant-Contrib project is a collection of tasks for Apache Ant. The plug-in is designed to be extended.
 
 # Install
 
