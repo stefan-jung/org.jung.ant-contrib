@@ -44,6 +44,18 @@ dita --install https://github.com/doctales/org.doctales.ant-contrib/archive/mast
 
 The `dita` command line tool requires no additional configuration.
 
+# Usage
+
+To use the The Ant-Contrib plug-in  simply add a `<require>` element to your own `plugin.xml`
+
+#### `plugin.xml` Configuration
+
+```xml
+<plugin id="com.example.dita">
+  <require plugin="org.doctales.ant-contrib"/>
+</plugin>
+```
+
 ---
 
 # License
