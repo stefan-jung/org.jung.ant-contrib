@@ -32,7 +32,7 @@ To use the Ant-Contrib plug-in  simply add a `<require>` element to your own `pl
 
 # License
 
-[Apache 2.0](LICENSE) ©2013 Stefan Jung
+[Apache 2.0](LICENSE) ©2023 Stefan Jung
 
 The Program includes the following additional software components which were obtained under license:
 
